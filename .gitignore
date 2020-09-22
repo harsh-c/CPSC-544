@@ -1,0 +1,13 @@
+
+.DS_Store
+*.iml
+BubbleSort/.gradle
+BubbleSort/local.properties
+BubbleSort/.idea/
+.DS_Store
+BubbleSort/build
+BubbleSort/captures
+BubbleSort/externalNativeBuild
+.cxx
+BubbleSort/app/build
+BubbleSort/app/proguard-rules.pro
