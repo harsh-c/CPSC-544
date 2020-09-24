@@ -67,4 +67,15 @@
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="99dp" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="9dp"
+        android:onClick="quitApplication"
+        android:text="Quit" />
+
 </RelativeLayout>
